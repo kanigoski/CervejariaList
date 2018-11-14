@@ -1,0 +1,80 @@
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\csc.exe
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\System.Collections.Immutable.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\vbc.exe
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\VBCSCompiler.exe
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\roslyn\VBCSCompiler.exe.config
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Cervejaria.dll.config
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Cervejaria.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Cervejaria.pdb
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Antlr3.Runtime.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Microsoft.Web.Infrastructure.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Newtonsoft.Json.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.Helpers.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.Mvc.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.Optimization.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.Razor.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.WebPages.Deployment.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.WebPages.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.WebPages.Razor.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\WebGrease.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.Helpers.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.Mvc.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.Optimization.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.Razor.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.WebPages.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.WebPages.Deployment.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\System.Web.WebPages.Razor.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Antlr3.Runtime.pdb
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\bin\Newtonsoft.Json.xml
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\obj\Debug\Cervejaria.csprojResolveAssemblyReference.cache
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\obj\Debug\Cervejaria.dll
+c:\users\richard_kanigoski\documents\visual studio 2015\Projects\Cervejaria\Cervejaria\obj\Debug\Cervejaria.pdb
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\csc.exe
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\vbc.exe
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\VBCSCompiler.exe
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Cervejaria.dll.config
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Cervejaria.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Cervejaria.pdb
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Antlr3.Runtime.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Newtonsoft.Json.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.Helpers.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.Mvc.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.Optimization.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.Razor.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.WebPages.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.WebPages.Razor.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\WebGrease.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.Helpers.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.Mvc.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.Optimization.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.Razor.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.WebPages.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\System.Web.WebPages.Razor.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Antlr3.Runtime.pdb
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\bin\Newtonsoft.Json.xml
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\obj\Debug\Cervejaria.csprojResolveAssemblyReference.cache
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\obj\Debug\Cervejaria.dll
+C:\Users\richard_kanigoski\Desktop\Cervejaria\Cervejaria\obj\Debug\Cervejaria.pdb
